@@ -1,0 +1,4 @@
+name: Displayia
+version: '0.1'
+main: net.arsenic.displayia.Displayia
+api-version: '1.21'
